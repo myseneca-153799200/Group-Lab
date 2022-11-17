@@ -3,16 +3,38 @@
 
 import random
 
+import random
+
 options = ("rock", "paper", "scissors")
 gameruns = True
 
 while gameruns:
 
     user = None
-    computer = random.choice(options)
+    system = random.choice(options)
 
     while user not in options:
-        user = input("Enter a choice (rock, paper, scissors): ")
+        user = input("Please select from (rock, paper, scissors): ")
 
-    print(f"Player: {player}")
-    print(f"Computer: {computer}")
+    print(f"user: {user}")
+    print(f"system: {system}")
+
+    if user == system:
+        print("Tie! Well Played!")
+        exit()
+    elif user == "rock" and system == "scissors":
+        print("You win! Well Played!")
+        exit()
+    elif user == "paper" and system == "rock":
+        print("You win! Well Played")
+        exit()
+    elif user == "scissors" and system == "paper":
+        print("You win! Well Played!")
+        exit()
+    else:
+        print("You lose! Better Luck next time!!!!")
+        exit()
+
+
+
+
