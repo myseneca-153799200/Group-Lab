@@ -2,10 +2,10 @@
 
 ## Table of contents
 
-1. [Flowchart](#flowchart)
+1. [Flowchart](#Flowchart)
  ##
 
-### Network Topology
+### Flowchart
  <img src="./flowchart_group1_drawio.png"
      alt="Network Topology image not found"
      style="float: left; margin-right: 10px;" />
