@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 #Date Created = 2022/11/17
+#Usage: ./code.py
+#Group 1
+#Members: Tirth Chiragbhai Jayswal, Tirthkumar Jatinbhai Patel, Pritesh Sumanbhai Chaudhari, Rachit Garg
 
 import random
 
