@@ -1,4 +1,4 @@
-# Group-Lab
+# Group-Project
 
 ## Table of contents
 1. [Game Plan](#Game-Plan)
@@ -8,10 +8,10 @@
  ##
 
 ### Game Plan
-The game can include 2 players and has 3 symbols in total to present: ]
+The game can include 2 players and has 3 symbols in total to present:
 <br>
- i.    Rock     -->     Is superior to scissors
- ii.   Paper    -->     Is superior to rock
+ i.    Rock     -->     Is superior to scissors <br>
+ ii.   Paper    -->     Is superior to rock <br>
  iii.  Scissors -->     Is superior to paper <br>
 
 ### Game Explanation
